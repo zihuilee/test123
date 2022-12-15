@@ -1,8 +1,5 @@
 hello
 123
 world
-<<<<<<< HEAD
 789
-=======
 abcd
->>>>>>> dev
