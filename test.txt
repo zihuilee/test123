@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 123
+=======
+world
+>>>>>>> a00a3b9d54602fc63e9e97d36828fa4a24c1ef2f
